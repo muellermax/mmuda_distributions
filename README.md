@@ -20,7 +20,7 @@ This package relies on the `math` and `matplotlib` packages for calculation and 
 
 It can be installed the following way: 
 ```python
-pip using pip install mmuda-distribution.
+pip using pip install mmuda-distributions
 ```
 
 Then, the module can be imported and applied the following way: 
